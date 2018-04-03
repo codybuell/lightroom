@@ -55,6 +55,7 @@
   <setting channel="3" controller="31" command_string="GrayMixerPurple"/>
   <setting channel="1" controller="30" command_string="Pick"/>
   <setting channel="3" controller="27" command_string="GrayMixerYellow"/>
+  <setting channel="1" controller="29" command_string="ConvertToGrayscale"/>
   <setting channel="3" controller="26" command_string="GrayMixerOrange"/>
   <setting channel="3" controller="25" command_string="GrayMixerRed"/>
   <setting channel="1" controller="28" command_string="ResetAll"/>
